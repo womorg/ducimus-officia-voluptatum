@@ -1,10 +1,10 @@
 {
   "name": "@womorg/ducimus-officia-voluptatum",
-  "version": "12.38.350",
+  "version": "12.38.351",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-doloribus-quod": "^1.0.0",
